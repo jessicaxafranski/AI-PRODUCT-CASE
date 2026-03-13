@@ -1,0 +1,410 @@
+CERTAINS 
+
+- People who cannot access the formal rental market are forced into fragmented informal channels where critical information, such as administrative compatibility, is unclear
+-The biggest challenge is not finding listings — it is finding a viable living situation under real-life constraints.
+
+
+Hypotesis
+
+- In informal housing markets, trust is often established through social connections rather than through the platform itself.
+
+
+discovery
+trust
+compatibility
+
+search
+→ message
+→ silence
+→ repeat
+
+
+#Calculation
+
+recent listing
++ small distribution
++ fast response
++ specific tenant profile
+= higher chance of success
+
+
+
+## Discovery Insight: Hidden Housing Opportunities
+
+Some of the most accessible housing opportunities do not appear on major real estate platforms. Instead, they emerge through smaller social channels, subletting situations, or niche communities where competition is lower and landlords may have more flexible requirements.
+
+However, discovering these opportunities requires constant monitoring of fragmented channels and often involves uncertainty regarding trust and legitimacy.
+
+
+### Discovery Insight: Response Bottleneck in Housing Platforms
+
+While some platforms already allow users to discover available rooms or apartments, the main friction occurs after the initial contact.
+
+Users often send dozens of messages to landlords or tenants, but response rates remain low. In many cases, users receive no reply at all, creating uncertainty and forcing them to repeat the process across multiple listings.
+
+This creates a high-effort interaction loop where users must continuously send outreach messages without knowing whether they will receive a response.
+
+### Discovery Insight: Uncertain Response Probability
+
+Some housing platforms allow users to see how many people have already contacted the landlord or tenant. However, this information does not indicate whether the landlord is still actively responding.
+
+As a result, users continue sending messages even when the probability of receiving a response may already be very low. This creates an experience where housing search feels like a game of chance rather than a structured process.
+
+### Discovery Insight: Template Messaging Behavior
+
+Due to the high competition and low response rates in housing platforms, users often adopt a template messaging strategy.
+
+Instead of writing personalized messages for each listing, users create a standard message and send it to dozens of landlords or tenants in order to increase their chances of receiving a response.
+
+This behavior reflects a system where outreach volume becomes more important than meaningful interaction.
+
+
+### Discovery Insight: Landlord Segmentation
+
+Not all landlords behave the same way in the housing market. Individual landlords who manage a single property or temporary sublets may have different incentives and flexibility compared to professional landlords or real estate agencies.
+
+These smaller landlords may respond more personally and sometimes accept tenants with non-traditional profiles, such as freelancers or people without local employment documentation.
+
+formal platforms
+↓
+não podem anunciar
+↓
+informal channels
+
+
+### Discovery Insight: Informal Subletting Market
+
+A significant portion of temporary housing opportunities exists in an informal subletting market. Many tenants temporarily sublet their apartments while traveling or relocating, even when their contracts do not formally allow subletting.
+
+Because of this constraint, these opportunities rarely appear on traditional real estate platforms and are instead shared through informal channels such as social media pages or personal networks.
+
+As a result, discovering these opportunities requires constant monitoring of fragmented channels and often involves uncertainty regarding trust and legitimacy.
+
+### Discovery Insight: Low-Visibility Supply
+
+A portion of the housing supply in Barcelona exists in an informal subletting market where participants prefer to remain discreet. Because many rental contracts restrict subletting, tenants often share opportunities only within small networks or niche channels rather than public platforms.
+
+This creates a situation where potentially valuable housing opportunities exist but remain difficult to discover through traditional search methods.
+
+### Discovery Insight: Tenant Segmentation
+
+Different tenant profiles face different levels of difficulty in accessing the housing market.
+
+Freelancers, artists, and recently relocated individuals often struggle to meet the formal requirements imposed by real estate agencies. As a result, they rely more heavily on informal housing channels.
+
+In contrast, higher-income digital nomads may still be able to access the formal market due to their ability to meet financial requirements.
+
+### Discovery Insight: Housing as a Gateway to Administrative Integration
+
+For recently arrived immigrants, securing housing is not only a matter of accommodation but also a critical gateway to administrative integration.
+
+Without a valid address that allows **empadronamiento**, individuals may struggle to access essential services such as healthcare, legal documentation processes, and other public services.
+
+As a result, housing becomes the first major barrier to integration, amplifying the vulnerability of newcomers who may also lack local networks, trusted information sources, and knowledge of the local rental system.
+
+### Discovery Insight: Temporary Landing Phase
+
+Many newcomers arriving in Barcelona enter a temporary landing phase when they first arrive in the city. During this period, they often stay with friends, in short-term rentals, or in hotels while searching for a more permanent housing solution.
+
+This phase typically lasts one to two weeks and creates significant pressure to secure accommodation quickly, as temporary options can be expensive and unstable.
+
+As a result, newcomers must search intensively for housing within a short timeframe while simultaneously navigating an unfamiliar market and administrative requirements.
+
+
+### Discovery Insight: Different Arrival Preparedness Levels
+
+Newcomers arriving in Barcelona display different levels of preparation. Some individuals plan their relocation in advance, booking temporary accommodation such as hotels or short-term rentals before searching for housing.
+
+Others arrive with little or no preparation, often relying on immediate opportunities or personal networks to secure temporary shelter while searching for longer-term accommodation.
+
+These different levels of preparedness influence how urgently newcomers need to secure housing and how vulnerable they may be to unreliable or risky opportunities.
+
+### Discovery Insight: Administrative Compatibility as a Critical Filter
+
+For many newcomers, the ability to register their address through empadronamiento is a critical requirement when choosing housing.
+
+Listings that do not allow empadronamiento may prevent individuals from accessing essential administrative processes, including healthcare access and residency documentation.
+
+As a result, the ability to quickly identify listings compatible with empadronamiento becomes a key decision factor for immigrants searching for housing.
+
+### Discovery Insight: The Primary Goal Is Securing a Response
+
+For many newcomers searching for housing, the immediate goal is not necessarily finding the perfect apartment but securing a response from a landlord.
+
+Receiving a reply and scheduling a visit allows tenants to assess trust, legitimacy, and living conditions directly. Until this interaction happens, listings remain uncertain opportunities.
+
+As a result, the housing search process often revolves around sending many messages and hoping to receive at least one response that leads to a viewing.
+
+### Discovery Insight: Response Probability Reduces Search Anxiety
+
+For tenants searching for housing in Barcelona, uncertainty around landlord responses creates significant anxiety during the search process.
+
+Users often send dozens of messages without knowing whether the landlord is still reviewing inquiries or actively responding. As a result, tenants invest time and emotional energy in listings that may no longer represent real opportunities.
+
+Providing signals about landlord responsiveness and highlighting newly published listings can significantly reduce this uncertainty and help users prioritize opportunities with a higher probability of response.
+opportunity
+= speed
++ response probability
++ trust
+
+### Discovery Insight: Opportunity Evaluation Requires Three Signals
+
+Tenants searching for housing must quickly evaluate whether a listing represents a real opportunity. This evaluation typically involves three key signals:
+
+- **Recency** – how recently the listing was published
+- **Responsiveness** – whether the landlord is actively replying to inquiries
+- **Trustworthiness** – whether the listing and landlord appear legitimate
+
+Without these signals, users often rely on guesswork, sending large volumes of messages and hoping that at least one opportunity results in a response and a viewing.
+
+
+admin compatibility
+↓
+location fit
+↓
+property quality
+↓
+contact
+
+### Discovery Insight: Administrative Compatibility as the First Decision Filter
+
+For tenants who require empadronamiento, administrative compatibility becomes the primary decision filter when evaluating housing opportunities.
+
+Instead of prioritizing property characteristics such as photos or amenities, users first need to confirm whether the listing allows empadronamiento. Only after this requirement is satisfied do they evaluate other factors such as location, property condition, or price.
+
+This creates a different decision hierarchy compared to traditional housing platforms, where visual presentation and price are typically prioritized.
+
+### Discovery Insight: Empadronamiento as the Primary Housing Constraint
+
+For many immigrants and newly arrived residents in Barcelona, the primary housing requirement is the ability to register their address through empadronamiento.
+
+Because empadronamiento enables access to essential services such as healthcare and administrative documentation, tenants prioritize listings that allow address registration over other factors such as property size or contract duration.
+
+As a result, even temporary rooms or shared accommodations become acceptable options as long as they allow empadronamiento.
+
+### Discovery Hypothesis: Subletting and Administrative Constraints
+
+In informal subletting arrangements, tenants who temporarily sublet their apartments may avoid allowing empadronamiento due to contractual restrictions or fear of attracting attention from the original landlord.
+
+This creates a structural conflict in the housing market: while newcomers often require empadronamiento to access essential services, some subletters prefer to keep arrangements informal to avoid legal or contractual complications.
+
+total housing supply
+≠
+usable housing supply
+
+usable supply
+=
+housing
++ empadronamiento
+
+### Discovery Insight: Administrative Uncertainty
+
+Information about empadronamiento is rarely explicit in housing listings. When tenants ask landlords about the possibility of address registration, responses are often vague or conditional rather than clearly positive or negative.
+
+In many cases, landlords prefer to evaluate the tenant in person before confirming whether empadronamiento will be allowed. As a result, tenants must invest time in messaging and scheduling visits without certainty that the housing opportunity will meet their administrative needs.
+
+
+### Discovery Insight: Empadronamiento as a Scarce Administrative Resource
+
+In some cases, empadronamiento is treated as a scarce administrative resource in the housing market. Because address registration enables access to essential services and legal processes, some landlords or tenants may charge additional fees or avoid confirming it openly in listings.
+
+As a result, responses such as "maybe" may indicate uncertainty, negotiation, or reluctance to formally commit to allowing empadronamiento.
+
+### Discovery Insight: Ambiguous Administrative Signals
+
+When tenants ask about empadronamiento, responses are often vague or conditional rather than clearly positive or negative.
+
+However, the meaning of these responses can vary significantly. In some cases, empadronamiento may depend on the tenant profile, the duration of the stay, or the landlord's willingness to formalize the arrangement.
+
+As a result, tenants must interpret uncertain signals and decide whether it is worth investing time in messaging or visiting the property.
+
+
+### Discovery Insight: Temporary Housing as an Administrative Bridge
+
+Short-term housing arrangements often function as a transitional solution for newcomers. Rather than serving purely as temporary accommodation, these arrangements allow tenants to stabilize their administrative situation.
+
+A stay of one to three months can provide enough time for tenants to register their address, access essential services, and search for longer-term housing solutions.
+
+In this sense, temporary housing plays a critical role as an administrative bridge for newcomers entering the city.
+
+### Discovery Insight: Transitional Housing as the First Step
+
+For newcomers arriving in Barcelona, the immediate goal is often not to secure a perfect long-term apartment but to stabilize their situation quickly.
+
+Short-term housing options that allow empadronamiento can provide a critical transition period, enabling tenants to access administrative services, build local connections, and explore longer-term housing opportunities.
+
+This transitional phase reduces pressure and allows newcomers to make more informed housing decisions after arriving in the city.
+
+### Discovery Insight: Minimum Stay for Administrative Registration
+
+While short-term housing may help newcomers stabilize their situation, landlords may be reluctant to allow empadronamiento for very short stays.
+
+Registering a tenant's address may involve administrative effort and potential risk, leading many landlords to prefer tenants who plan to stay for a longer period, such as three months or more.
+
+As a result, listings that allow empadronamiento may often be associated with minimum stay requirements rather than very short-term arrangements.
+
+### Core Discovery Insight: Administrative Stability Over Perfect Housing
+
+For many newcomers arriving in Barcelona, the primary goal is not securing the perfect long-term apartment but achieving short-term administrative stability.
+
+A room that allows empadronamiento for a period such as three months can provide enough time for tenants to access healthcare, complete documentation processes, and search for more permanent housing.
+
+As a result, transitional housing with administrative compatibility becomes significantly more valuable than traditional housing listings during the first phase of relocation.
+
+newcomers need fast access to
+trustworthy housing
+that allows empadronamiento
+with responsive landlords
+
+### Discovery Insight: Curated Opportunities Over High Volume
+
+Users searching for housing may prefer a smaller set of curated opportunities rather than a large volume of listings with uncertain outcomes.
+
+Listings that provide clear signals such as empadronamiento compatibility, recent publication, landlord responsiveness, and basic trust indicators can significantly reduce search effort and anxiety.
+
+In this context, quality and relevance of opportunities may be more valuable than the total number of listings available on a platform.
+
+# We help newcomers in Barcelona find trustworthy housing opportunities that allow empadronamiento, reducing the stress and uncertainty of settling in a new city.
+# We help newcomers in Barcelona secure housing with empadronamiento by identifying trustworthy and responsive listings across fragmented housing channels.
+# We help newcomers in Barcelona find high-probability housing opportunities with empadronamiento by using AI to detect responsive landlords and recent listings across multiple platforms.
+
+tenant profile
++
+landlord requirements
+↓
+matching
+↓
+alerts when compatibility exists
+
+
+tenant creates profile
+↓
+AI analyzes tenant needs
+↓
+system monitors housing channels
+↓
+when a compatible opportunity appears
+↓
+user receives alert
+
+profile → matching → alert → message
+
+
+### Product Concept
+
+Instead of requiring users to manually search across multiple housing platforms, the product allows tenants to create a profile describing their housing needs and administrative constraints.
+
+The system continuously monitors multiple housing sources and identifies listings that match the tenant's profile.
+
+When a compatible opportunity appears — for example, a listing that allows empadronamiento and meets the tenant's basic requirements — the user receives a real-time alert so they can contact the landlord quickly.
+
+alert when listing appears
+match tenant profile
+no need to monitor platforms constantly
+administrative filter
+
+
+1. empadronamiento compatibility
+2. budget affordability
+3. location preference
+
+room
+shared apartment
+studio
+full apartment
+
+room
+empadronamiento
++
+minimum stay
+
+
+1 person
+couple
+
+
+move-in: immediately
+move-in: next month
+
+Spanish
+English
+
+
+### Tenant Profile
+
+Users create a profile describing their housing requirements and constraints.
+
+Key fields include:
+
+- Budget range
+- Preferred location
+- Empadronamiento requirement
+- Accommodation type (room, shared apartment, studio)
+- Number of tenants
+- Desired move-in date
+- Minimum stay duration
+
+### Matching Strategy
+
+Rather than requiring perfect matches across all filters, the system prioritizes opportunities that satisfy the most critical constraint: empadronamiento compatibility.
+
+Listings that allow empadronamiento are surfaced first, even if other attributes such as location or price are slightly outside the user's preferred range.
+
+This approach reflects the decision hierarchy observed during discovery, where administrative compatibility is more important than property characteristics for newcomers.
+scan multiple platforms
+↓
+collect listings
+↓
+structure information
+
+
+### Role of AI in the Product
+
+AI plays a key role in transforming fragmented and unstructured housing information into structured opportunities for users.
+
+The system uses AI to analyze housing listings across multiple platforms and extract relevant signals such as:
+
+- Empadronamiento compatibility
+- Minimum stay duration
+- Accommodation type
+- Location references
+- Potential trust signals
+
+By structuring this information, the platform can match listings with tenant profiles and notify users when high-probability opportunities appear.
+
+
+# housing opportunity intelligence
+
+### Market Gap
+
+Existing housing platforms primarily function as listing marketplaces. While they provide large inventories of available properties, they do not address the key uncertainties faced by newcomers, such as administrative compatibility, landlord responsiveness, and trust signals.
+
+As a result, users must manually search across multiple platforms, send dozens of messages, and rely on guesswork to identify real opportunities.
+
+1. AI Housing Agent
+2. Simple Housing Platform Prototype
+
+user defines profile
+↓
+agent scans platforms
+↓
+AI extracts information
+↓
+agent alerts user
+
+### Proposed Solution
+
+The proposed solution combines two components:
+
+1. **AI Housing Agent**  
+   An intelligent agent that continuously monitors housing sources and identifies opportunities that match a tenant's profile.
+
+2. **Housing Opportunity Platform**  
+   A simple interface where users can create a profile, receive alerts, and view curated housing opportunities with higher chances of success.
+
+This combination reduces the need for constant manual searching while improving the quality of opportunities presented to users.
+
+
+
+
+
