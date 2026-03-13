@@ -12,11 +12,11 @@ This checklist tracks the progress of the project phases.
 ---
 
 ## 1. Problem Discovery
-- [ ] Write context of the housing problem in Barcelona
-- [ ] Describe the current apartment search process
-- [ ] List the main pain points (empadronamiento, price, information fragmentation)
-- [ ] Write the problem statement
-- [ ] Identify key platforms (Idealista, Fotocasa, Habitaclia)
+- [x] Write context of the housing problem in Barcelona
+- [x] Describe the current apartment search process
+- [x] List the main pain points (empadronamiento, price, information fragmentation)
+- [x] Write the problem statement
+- [x] Identify key platforms (Idealista, Fotocasa, Habitaclia)
 
 ---
 
