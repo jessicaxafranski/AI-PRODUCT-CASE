@@ -1,3 +1,72 @@
+                ┌───────────────────────────┐
+                │        Tenant Profile      │
+                │--------------------------- │
+                │ Budget                     │
+                │ Location                   │
+                │ Empadronamiento required   │
+                │ Move-in date               │
+                │ Accommodation type         │
+                └───────────────┬────────────┘
+                                │
+                                ▼
+                ┌───────────────────────────┐
+                │      AI Housing Agent      │
+                │--------------------------- │
+                │ Profile matching           │
+                │ Listing analysis           │
+                │ Opportunity scoring        │
+                └───────────────┬────────────┘
+                                │
+                                ▼
+           ┌──────────────────────────────────────────┐
+           │          Housing Source Monitor          │
+           │------------------------------------------│
+           │ Idealista                                │
+           │ Badi                                     │
+           │ Facebook Groups                          │
+           │ Instagram Pages                          │
+           └───────────────┬──────────────────────────┘
+                           │
+                           ▼
+                ┌───────────────────────────┐
+                │      Listing Collector     │
+                │--------------------------- │
+                │ Gather new listings        │
+                │ Store listing descriptions │
+                └───────────────┬────────────┘
+                                │
+                                ▼
+                ┌───────────────────────────┐
+                │      AI Listing Analyzer   │
+                │--------------------------- │
+                │ Extract price              │
+                │ Detect empadronamiento     │
+                │ Identify stay duration     │
+                │ Detect trust signals       │
+                └───────────────┬────────────┘
+                                │
+                                ▼
+                ┌───────────────────────────┐
+                │      Matching Engine       │
+                │--------------------------- │
+                │ Compare with tenant profile│
+                │ Calculate match score      │
+                └───────────────┬────────────┘
+                                │
+                                ▼
+                ┌───────────────────────────┐
+                │      Opportunity Feed      │
+                │--------------------------- │
+                │ Top opportunities today    │
+                │ Ranked listings            │
+                │ User alerts                │
+                └───────────────────────────┘
+
+
+
+
+
+
 You are an AI Housing Opportunity Agent designed to help newcomers in Barcelona find housing opportunities with a higher probability of success.
 
 Your role is to analyze housing listings from multiple sources and determine whether they represent a good opportunity for the user.
