@@ -1,0 +1,126 @@
+## 4. AI Solution Design
+
+This section describes how artificial intelligence is used to transform fragmented housing listings into structured housing opportunities.
+Housing information in Barcelona is distributed across multiple platforms and social media channels. Important administrative signals, such as empadronamiento compatibility, are often hidden inside listing descriptions.
+The AI agent analyzes these listings, detects relevant signals, and returns opportunities that match the user's housing needs.
+
+### 4.1 Where AI is Used in the Product
+
+Artificial intelligence is used to analyze housing listings and extract information that is not available through traditional platform filters.
+Most housing platforms do not provide structured filters for administrative requirements such as empadronamiento.
+The AI system analyzes listing descriptions and identifies signals indicating whether residency registration is possible.
+
+AI is applied in the following areas:
+
+- Listing text analysis
+- Empadronamiento signal detection
+- Housing information extraction
+- Opportunity filtering
+
+### 4.2 AI Pipeline
+
+The AI pipeline processes housing listings from multiple sources and converts them into structured housing opportunities.
+
+Housing Sources  
+↓  
+Listing Collection  
+↓  
+Text Extraction  
+↓  
+AI Listing Analysis  
+↓  
+Empadronamiento Detection  
+↓  
+Information Extraction  
+↓  
+Filtered Opportunities  
+↓  
+User Results
+
+### 4.3 Key AI Tasks
+
+The AI agent performs several tasks to analyze housing listings and extract relevant information.
+
+#### Text Analysis
+
+The system reads listing descriptions, captions, and comments from housing platforms and social media posts.
+Listings may contain multiple languages, such as Spanish or English.
+
+#### Feature Detection
+
+The AI agent detects important signals within listing text.
+
+Examples include:
+
+- Empadronamiento compatibility
+- Accommodation type
+- Price information
+- Location references
+- Minimum stay duration
+
+*Example signal detected:*
+
+"You can register your residency at this property"
+
+This is interpreted as:
+Empadronamiento Status: Allowed
+
+#### Opportunity Filtering
+
+After signals are detected, the system filters listings based on:
+
+- Empadronamiento compatibility
+- User housing preferences
+- Location (Barcelona)
+
+Listings where empadronamiento is not allowed are excluded.
+
+### 4.4 System Architecture
+
+The system architecture illustrates how the AI housing agent processes housing listings.
+
+### 4.4 System Architecture
+
+The system architecture illustrates how the AI housing agent processes housing listings.
+
+User Profile  
+(budget, accommodation type, empadronamiento requirement)  
+↓  
+AI Housing Agent  
+↓  
+
+Listing Sources
+
+Platform Listings
+- Idealista
+- Badi
+- Fotocasa
+- Habitaclia
+
+Social Media Listings
+- Facebook Groups
+- Instagram Pages
+
+↓  
+Listing Analysis Engine  
+↓  
+Signal Detection  
+↓  
+Structured Housing Opportunities  
+↓  
+User Results
+
+### 4.5 Technical Approach
+
+The system uses a combination of data collection and AI-based text analysis.
+
+Key components include:
+
+- Listing aggregation from multiple sources
+- Text extraction from listings
+- AI-based signal detection
+- Multilingual phrase recognition
+- Structured output generation
+
+The AI agent focuses on detecting administrative compatibility signals such as empadronamiento, which are currently hidden in listing descriptions.
+By transforming unstructured listing text into structured signals, the system enables users to identify housing opportunities more efficiently.
