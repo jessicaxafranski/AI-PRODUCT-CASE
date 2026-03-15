@@ -1,0 +1,54 @@
+## 2. User Research & Personas
+
+This section summarizes the research context, main user groups, and their needs and frustrations.
+
+---
+
+### Research Context
+
+This case study is informed by personal experience and qualitative insights gathered from conversations with friends, acquaintances, and other newcomers who recently searched for housing in Barcelona.
+
+These discussions revealed recurring challenges such as fragmented housing information, low landlord response rates, and uncertainty around empadronamiento.
+
+---
+
+### Primary Users
+
+People relocating to Barcelona, including:
+
+- International students (e.g., Erasmus)
+- Digital nomads
+- International professionals
+- Immigrants arriving in Spain
+
+These users often require **empadronamiento** to access healthcare, obtain documentation such as the **NIE**, and integrate into the local administrative system.
+
+---
+
+### Secondary Users
+
+Local residents in Barcelona also experience housing difficulties due to:
+
+- high housing demand
+- rising rental prices
+- limited supply of affordable apartments
+
+However, their constraints are typically different, as they are already integrated into the local administrative system.
+
+---
+
+### User Segments, Needs, and Frustrations
+
+The housing challenge affects multiple user groups differently. The table below summarizes the main user segments, their needs, and their key frustrations during the housing search process in Barcelona.
+
+
+| User Type                                  | Needs                                                                                         | Frustrations                                                                                           |
+| ------------------------------------------ | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| **New Immigrants**                         | Find housing quickly, secure empadronamiento, access healthcare and documentation             | Fragmented housing information, unclear empadronamiento policies, risk of scams, lack of local network |
+| **International Students**                 | Affordable rooms, flexible stays, quick housing before classes start                          | High competition for rooms, slow landlord responses, difficulty finding verified listings              |
+| **Freelancers / Artists**                  | Flexible housing, acceptance without traditional employment contracts, shared housing options | Landlords requiring multiple payslips, difficulty proving income, limited trust from landlords         |
+| **Couples Relocating**                     | Rooms or apartments that accept couples, reasonable pricing, stable stay duration             | Many listings prefer single tenants, higher rent expectations, limited couple-friendly options         |
+| **Digital Nomads**                         | Flexible stays, furnished housing, quick move-in options                                      | High prices, limited short-term options with administrative compatibility                              |
+| **Local Residents Seeking Shared Housing** | Affordable rooms in central areas, trustworthy landlords                                      | Rising housing prices, crowded competition, incomplete listing information                             |
+
+

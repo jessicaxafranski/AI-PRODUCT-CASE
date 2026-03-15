@@ -1,90 +1,39 @@
-# AI Apartment Agent – Product Case Study
+## AI Apartment Agent – Product Case Documentation
 
-## Overview
-This project explores the development of an AI-powered agent designed to help people relocating to Barcelona find apartments that meet both administrative and personal requirements.
-The goal is to reduce the time and complexity involved in apartment searches by aggregating listings, analyzing them with AI, and highlighting the best options.
+This repository contains a full product case study for an **AI Housing Opportunity Agent** that helps newcomers in Barcelona discover housing opportunities compatible with their administrative and personal needs (especially **empadronamiento**).
 
----
-# AI Apartment Agent – Project Progress
-
-This checklist tracks the progress of the project phases.
+The documentation is organized into focused markdown files so you can navigate each phase of the product case independently.
 
 ---
 
-## 1. Problem Discovery
-- [x] Write context of the housing problem in Barcelona
-- [x] Describe the current apartment search process
-- [x] List the main pain points (empadronamiento, price, information fragmentation)
-- [x] Write the problem statement
-- [x] Identify key platforms (Idealista, Fotocasa, Habitaclia)
+## Documentation Structure
+
+- **High‑level narrative**
+  - `docs/overview.md` – Case overview, goals, and how the agent creates value.
+
+- **Discovery & Research**
+  - `docs/01-problem-discovery.md` – Problem context, current behavior, and key challenges.
+  - `docs/02-user-research-personas.md` – User research, personas, needs, and frustrations.
+  - `docs/06-user-journey-and-insights.md` – End‑to‑end journey and narrative case write‑up.
+  - `docs/07-discovery-insights-and-ideation.md` – Discovery notes, insights, and hypotheses.
+
+- **Product & Solution Design**
+  - `docs/03-product-definition.md` – Product vision, description, and value proposition.
+  - `docs/05-ai-solution-design.md` – AI solution design, architecture, and technical approach.
+  - `docs/08-agent-design-and-prompts.md` – Agent behaviors and system prompts.
+
+- **MVP & Roadmap**
+  - `docs/04-mvp-definition.md` – MVP scope, feature set, and success metrics.
+
+- **Progress Tracking**
+  - `docs/progress.md` – Phase‑by‑phase checklist and final deliverables.
 
 ---
 
-## 2. User Research
-- [ ] Define user personas (expats, students, digital nomads)
-- [ ] Write user needs and frustrations
-- [ ] Conduct at least 3–5 user interviews or conversations
-- [ ] Summarize insights from research
-- [ ] Validate that the problem affects multiple users
+## How to Read This Case
 
----
-
-## 3. Product Definition
-- [ ] Define the product vision
-- [ ] Write the product description
-- [ ] Define the core value proposition
-- [ ] List the main product features
-- [ ] Describe how the product solves the user problem
-
----
-
-## 4. AI Solution Design
-- [ ] Define where AI will be used in the product
-- [ ] Design the AI pipeline
-- [ ] Define the key AI tasks (text analysis, feature detection, ranking)
-- [ ] Create a simple system architecture diagram
-- [ ] Document the technical approach
-
----
-
-## 5. MVP Definition
-- [ ] Define the MVP features
-- [ ] List features excluded from MVP
-- [ ] Prioritize features
-- [ ] Create a simple product roadmap
-- [ ] Define success metrics
-
----
-
-## 6. Prototype
-- [ ] Define key screens
-- [ ] Design wireframes
-- [ ] Build prototype (Figma, Framer, or Lovable)
-- [ ] Test prototype flow
-- [ ] Document the user experience
-
----
-
-## 7. Agent Experiment
-- [ ] Define the experiment goal
-- [ ] Build a simple AI listing analyzer
-- [ ] Test detection of listing features
-- [ ] Document experiment results
-- [ ] Upload code or documentation
-
----
-
-## 8. Validation
-- [ ] Share the prototype with users
-- [ ] Collect feedback
-- [ ] Measure key metrics
-- [ ] Analyze results
-- [ ] Document learnings and improvements
-
----
-
-# Final Deliverables
-- [ ] Complete AI product case study
-- [ ] GitHub repository documentation
-- [ ] Prototype demonstration
-- [ ] Summary of experiment and validation
+1. Start with `docs/overview.md` to understand the problem, context, and solution at a glance.
+2. Dive into `docs/01-problem-discovery.md`, `docs/02-user-research-personas.md`, and `docs/06-user-journey-and-insights.md` to see how insights were generated.
+3. Explore `docs/03-product-definition.md`, `docs/05-ai-solution-design.md`, and `docs/04-mvp-definition.md` to understand the proposed product and MVP.
+4. Use `docs/08-agent-design-and-prompts.md` to see how the AI agents are framed and prompted.
+5. Use `docs/progress.md` to track which parts of the case are completed or still in progress.
