@@ -1,0 +1,70 @@
+## 5. AI Solution Design
+
+The MVP focuses on helping users identify housing listings where empadronamiento may be allowed. However, this information is rarely available as a structured filter on housing platforms.
+
+Instead, empadronamiento compatibility is often hidden within listing descriptions written in natural language. Users must manually read each listing or contact landlords to confirm whether residency registration is possible.
+
+To address this challenge, the product uses AI to analyze housing listings and detect signals indicating whether empadronamiento may be allowed.
+
+The AI system performs the following functions:
+
+• Analyze listing descriptions from housing platforms and social media posts  
+• Detect phrases related to empadronamiento compatibility  
+• Extract relevant housing information (price, location, accommodation type)  
+• Convert unstructured listing text into structured signals  
+• Surface housing opportunities compatible with the user’s preferences
+
+### 5.3 AI Agent Architecture
+
+The architecture below illustrates how the user interacts with the AI housing agent and how the system processes housing listings from different sources.
+
+```mermaid
+flowchart LR
+
+A[User Preferences<br>Budget, Location, Empadronamiento Need] --> B[AI Housing Agent]
+
+B --> C[Listing Sources]
+
+C --> D[Housing Platforms<br>Idealista, Fotocasa, Badi]
+C --> E[Social Media Listings<br>Facebook Groups, Instagram Pages]
+
+D --> F[Listing Processing Engine]
+E --> F
+
+F --> G[AI Text Analysis]
+
+G --> H[Empadronamiento Signal Detection]
+
+H --> I[Information Extraction<br>Price, Location, Accommodation Type]
+
+I --> J[Opportunity Filtering]
+
+J --> K[Filtered Housing Opportunities]
+
+K --> L[User Results]
+
+
+### 5.4 Key AI Tasks
+
+The AI system performs several tasks to transform unstructured housing listings into structured opportunities compatible with empadronamiento.
+
+| AI Task | Description | Product Value |
+|---|---|---|
+| Text Analysis | The system analyzes listing descriptions and captions from housing platforms and social media posts. | Allows the system to understand unstructured housing information. |
+| Signal Detection | The AI detects phrases indicating whether empadronamiento may be allowed, negotiable, or unavailable. | Enables identification of listings compatible with administrative requirements. |
+| Information Extraction | The system extracts structured information such as price, location, accommodation type, and minimum stay conditions. | Helps users quickly evaluate housing opportunities. |
+| Opportunity Filtering | Listings are filtered based on detected signals and user preferences. | Surfaces the most relevant housing opportunities. |
+
+### 5.5 Technical Approach
+
+The system uses a combination of listing aggregation and AI-based text analysis to identify housing opportunities compatible with empadronamiento.
+
+The technical approach focuses on analyzing unstructured listing descriptions and converting them into structured signals that can be used for filtering and discovery.
+
+| Component | Technical Approach | Purpose |
+|---|---|---|
+| Listing Collection | Listings are gathered from housing platforms and social media sources. | Aggregates housing opportunities from multiple channels. |
+| Text Processing | Listing descriptions and captions are extracted for analysis. | Prepares unstructured text for AI processing. |
+| AI Text Analysis | Natural language processing techniques are used to analyze listing content. | Enables the system to understand listing descriptions. |
+| Signal Detection | Phrase detection is used to identify signals related to empadronamiento compatibility. | Detects whether residency registration may be allowed. |
+| Structured Output | Extracted signals and listing attributes are converted into structured data. | Allows listings to be filtered and presented to users. |
