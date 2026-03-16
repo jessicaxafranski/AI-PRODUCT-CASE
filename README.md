@@ -12,21 +12,21 @@ The documentation is organized into focused markdown files so you can navigate e
   - `docs/overview.md` – Case overview, goals, and how the agent creates value.
 
 - **Discovery & Research**
-  - `docs/01-problem-discovery.md` – Problem context, current behavior, and key challenges.
-  - `docs/02-user-research-personas.md` – User research, personas, needs, and frustrations.
-  - `docs/06-user-journey-and-insights.md` – End‑to‑end journey and narrative case write‑up.
-  - `docs/07-discovery-insights-and-ideation.md` – Discovery notes, insights, and hypotheses.
+  - [Problem discovery](docs/01-problem-discovery.md)– Problem context, current behavior, and key challenges.
+  - [User research & personas](docs/02-user-research-personas.md) – User research, personas, needs, and frustrations.
+  - `[User journey and insights](docs/06-user-journey-and-insights.md) – End‑to‑end journey and narrative case write‑up.
+  - [Discovery insights and ideation](docs/07-discovery-insights-and-ideation.md) – Discovery notes, insights, and hypotheses.
 
 - **Product & Solution Design**
-  - `docs/03-product-definition.md` – Product vision, description, and value proposition.
-  - `docs/05-ai-solution-design.md` – AI solution design, architecture, and technical approach.
-  - `docs/08-agent-design-and-prompts.md` – Agent behaviors and system prompts.
+  - [Product definition](docs/03-product-definition.md) – Product vision, description, and value proposition.
+  - [AI solution design](docs/05-ai-solution-design.md) – AI solution design, architecture, and technical approach.
+  - [Agent design and prompts](docs/08-agent-design-and-prompts.md) – Agent behaviors and system prompts.
 
 - **MVP & Roadmap**
-  - `docs/04-mvp-definition.md` – MVP scope, feature set, and success metrics.
+  - [MVP definition](docs/04-mvp-definition.md) – MVP scope, feature set, and success metrics.
 
 - **Progress Tracking**
-  - `docs/progress.md` – Phase‑by‑phase checklist and final deliverables.
+  - [Progress](docs/progress.md)– Phase‑by‑phase checklist and final deliverables.
 
 ---
 
