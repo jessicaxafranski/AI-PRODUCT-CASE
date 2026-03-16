@@ -9,12 +9,12 @@ The documentation is organized into focused markdown files so you can navigate e
 ## Documentation Structure
 
 - **High‑level narrative**
-  - `docs/overview.md` – Case overview, goals, and how the agent creates value.
+  - [Case overview](docs/overview.md) – Case overview, goals, and how the agent creates value.
 
 - **Discovery & Research**
   - [Problem discovery](docs/01-problem-discovery.md)– Problem context, current behavior, and key challenges.
   - [User research & personas](docs/02-user-research-personas.md) – User research, personas, needs, and frustrations.
-  - `[User journey and insights](docs/06-user-journey-and-insights.md) – End‑to‑end journey and narrative case write‑up.
+  - [User journey and insights](docs/06-user-journey-and-insights.md) – End‑to‑end journey and narrative case write‑up.
   - [Discovery insights and ideation](docs/07-discovery-insights-and-ideation.md) – Discovery notes, insights, and hypotheses.
 
 - **Product & Solution Design**
