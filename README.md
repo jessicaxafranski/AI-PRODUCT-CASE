@@ -1,8 +1,4 @@
-## AI Apartment Agent – Product Case Documentation
-
-This repository contains a full product case study for an **AI Housing Opportunity Agent** that helps newcomers in Barcelona discover housing opportunities compatible with their administrative and personal needs (especially **empadronamiento**).
-
-The documentation is organized into focused markdown files so you can navigate each phase of the product case independently.
+## ENGINY CASE
 
 ---
 
