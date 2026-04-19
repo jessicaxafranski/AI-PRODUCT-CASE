@@ -1,0 +1,126 @@
+## 1. Problem Discovery
+
+This section describes the context of outbound sales using intent signals, who is affected, and how users currently act on signals.
+
+---
+
+### Problem
+
+In modern outbound sales, tools generate a large number of **intent signals** that indicate potential buying opportunities — such as job changes, hiring activity, or company growth.
+
+However, despite the availability of these signals, converting them into actual outreach remains difficult.
+
+The core issue is not access to data, but the **gap between signal detection and action**. Users are exposed to signals, but must manually interpret their relevance, decide whether to act, and create outreach campaigns from scratch.
+
+This process is often unclear and time-consuming. Signals are presented without sufficient context, and users are left to determine:
+
+- why the signal matters  
+- whether it is worth acting on  
+- how to approach the prospect  
+
+As a result, many signals are either ignored or acted on too late, causing missed opportunities and reduced outbound effectiveness.
+
+---
+
+### Who Is Affected by This Problem
+
+The inability to effectively act on signals impacts different roles within outbound sales teams.
+
+#### Primary Users
+
+Sales Development Representatives (SDRs) and outbound sales professionals:
+
+- responsible for generating pipeline  
+- working under time pressure  
+- managing large volumes of leads and signals  
+
+These users need to quickly identify which opportunities are worth pursuing and act on them efficiently.
+
+---
+
+#### Secondary Users
+
+Sales Managers and Revenue leaders:
+
+- responsible for team performance and pipeline generation  
+- rely on consistent outreach execution  
+- need visibility into what actions are driving results  
+
+When signals are not effectively used, it impacts overall team productivity and conversion rates.
+
+---
+
+### Current Behavior
+
+Users interact with signals through sales platforms such as:
+
+- Enginy  
+- Apollo  
+- ZoomInfo  
+- Lemlist
+
+These platforms provide signals and lead data, often with some level of ranking or scoring.
+
+---
+
+#### Typical Workflow
+
+1. Browse a list of contacts and signals  
+2. Review signal tags (e.g., job change, hiring)  
+3. Interpret whether the signal is relevant  
+4. Decide whether to act on the opportunity  
+5. Identify the right contact  
+6. Create a message or campaign manually  
+7. Launch outreach  
+
+---
+
+### Additional Discovery Insight: Signal vs Action Gap
+
+During discovery, a key pattern emerged:
+
+Signals alone do not create value — **action does**.
+
+Even when signals are available and ranked, users still struggle to:
+
+- understand the relevance of a signal  
+- trust the opportunity  
+- decide the best next step  
+
+As a result, the presence of signals does not guarantee action.
+
+This creates a gap where:
+
+- high-potential opportunities are missed  
+- outreach is delayed  
+- conversion rates are lower than expected  
+
+---
+
+### Typical User Flow
+
+1. Signal is detected and displayed  
+2. User reviews the signal and associated contact  
+3. User attempts to interpret the signal  
+4. User decides whether to act  
+5. User creates outreach manually  
+6. User sends campaign  
+
+---
+
+> 💡 **Key Insight**
+>
+> The challenge is not detecting or ranking signals, but enabling users to confidently and quickly act on them.  
+> Without clear context and guidance, signals remain underutilized.
+
+---
+
+### Key Challenges
+
+- Signals are presented without clear explanation of their relevance  
+- Users must manually interpret and prioritize opportunities  
+- No clear guidance on what action to take next  
+- High cognitive load due to decision-making requirements  
+- Time delays between signal detection and outreach  
+- Low trust in signals reduces likelihood of action  
+- Missed opportunities due to slow or inconsistent execution  
